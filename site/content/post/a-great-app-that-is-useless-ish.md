@@ -5,4 +5,6 @@ description: Bla
 ---
 #How to post from ...
 a mobil browser to Netlify CMC in spite the fact that the form in the admin UI, more specifically
+the post field is functionally unusable.#How to post from ...
+a mobil browser to Netlify CMC in spite the fact that the form in the admin UI, more specifically
 the post field is functionally unusable.
